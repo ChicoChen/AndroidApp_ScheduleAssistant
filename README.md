@@ -1,15 +1,17 @@
 # AndroidApp_ScheduleAssistant
 this is my side project, making a personal task management application
 
-useing Android Studio as IDE and Kotlin for development
+useing ***Android Studio*** as IDE and ***Kotlin*** for development
 
 feature
 ---
-**Schedule**
-![image](https://github.com/ChicoChen/AndroidApp_ScheduleAssistant/assets/107322822/488a8a5c-b375-4380-b862-e39ac76d3818)
+**Schedule:**
 
-**Todo**
-![image](https://github.com/ChicoChen/AndroidApp_ScheduleAssistant/assets/107322822/fc42cb7a-45ab-46a3-890e-dd00f5439899)
+![264640020-488a8a5c-b375-4380-b862-e39ac76d3818 (2)](https://github.com/ChicoChen/AndroidApp_ScheduleAssistant/assets/107322822/22a3f57c-8945-4015-ba95-fd4f16f74a6b)
+
+**Todo:**
+
+![264639283-fc42cb7a-45ab-46a3-890e-dd00f5439899](https://github.com/ChicoChen/AndroidApp_ScheduleAssistant/assets/107322822/9dad3bff-fe39-4346-97ab-2a1661d852ee)
 
 To Do list
 ---
