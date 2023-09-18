@@ -20,7 +20,8 @@ feature
 upcoming update
 ---
 1. new calendar feature
-2. improve *Readme.md*
-3. replace deprecated code
-4. code optimization
+2. new setting page
+3. improve *Readme.md*
+4. replace deprecated code
+5. code optimization
    
