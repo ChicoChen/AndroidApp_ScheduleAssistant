@@ -4,7 +4,7 @@ this is my personal side project, aim to develope a task manager app
 
 using ***Android Studio*** as IDE and ***Kotlin*** for development
  
-* The project is still in early development stage, all presented are just prototypes andare subject to change.
+***The project is still in early development stage, all presented are just prototypes and are subject to change.***
 
 install
 -----
