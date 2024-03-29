@@ -1,7 +1,10 @@
 # AndroidApp_ScheduleAssistant
-this is my side project, making a personal task management application
 
-useing ***Android Studio*** as IDE and ***Kotlin*** for development
+this is my personal side project, aim to develope a task manager app
+
+using ***Android Studio*** as IDE and ***Kotlin*** for development
+ 
+* The project is still in early development stage, all presented are just prototypes andare subject to change.
 
 install
 -----
